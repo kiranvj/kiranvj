@@ -14,3 +14,6 @@ section {
 .page {
 	margin: 10px 1rem;
 }
+.text-center {
+	text-align: center;	
+}
